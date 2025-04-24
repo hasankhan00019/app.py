@@ -1,0 +1,12 @@
+streamlit
+streamlit-lottie
+scholarly
+pandas
+graphviz
+fuzzywuzzy
+python-Levenshtein
+apscheduler
+email-validator
+python-dotenv
+requests
+beautifulsoup4
